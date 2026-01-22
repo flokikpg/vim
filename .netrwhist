@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/floki/.vim'
+let g:netrw_dirhist_5='/home/floki'
+let g:netrw_dirhist_4='/home/floki/.config'
+let g:netrw_dirhist_3='/home/floki/.config/oxwm'
+let g:netrw_dirhist_2='/home/floki/.config'
+let g:netrw_dirhist_1='/home/floki'
+let g:netrw_dirhist_0='/home/floki/.cargo'
+let g:netrw_dirhist_9='/home/floki/.cargo/registry'
+let g:netrw_dirhist_8='/home/floki/.cargo'
+let g:netrw_dirhist_7='/home/floki'
